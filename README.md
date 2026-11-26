@@ -1,5 +1,9 @@
 # What the Elevator Would Say
 
+[![make.fun · u-eager-stork-81-9647-what-the-elevator-would-say-90844958](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958.svg)](https://make.fun/bounty/u-eager-stork-81-9647-what-the-elevator-would-say-90844958?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/daring-falcon-58/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/daring-falcon-58/u-eager-stork-81-9647-what-the-elevator-would-say-90844958/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-what-the-elevator-would-say-90844958?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-what-the-elevator-would-say-90844958)
+
 ![Entry valid — 77/120 chars](https://img.shields.io/badge/entry-77%2F120%20chars-brightgreen)
 ![Winner score — 24/25](https://img.shields.io/badge/score-24%2F25-blue)
 ![Prize — $2 winner takes all](https://img.shields.io/badge/prize-%242-yellow)
